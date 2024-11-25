@@ -1,0 +1,15 @@
+C:\Users\thrupthi.x\Desktop\dot_net_project\bin\Debug\net7.0\dot_net_project.exe
+C:\Users\thrupthi.x\Desktop\dot_net_project\bin\Debug\net7.0\dot_net_project.deps.json
+C:\Users\thrupthi.x\Desktop\dot_net_project\bin\Debug\net7.0\dot_net_project.runtimeconfig.json
+C:\Users\thrupthi.x\Desktop\dot_net_project\bin\Debug\net7.0\dot_net_project.dll
+C:\Users\thrupthi.x\Desktop\dot_net_project\bin\Debug\net7.0\dot_net_project.pdb
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.csproj.AssemblyReference.cache
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.AssemblyInfoInputs.cache
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.AssemblyInfo.cs
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.csproj.CoreCompileInputs.cache
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.dll
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\refint\dot_net_project.dll
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.pdb
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\dot_net_project.genruntimeconfig.cache
+C:\Users\thrupthi.x\Desktop\dot_net_project\obj\Debug\net7.0\ref\dot_net_project.dll
